@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Full Stack Developer | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Ai&Ml | Backend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;AI+ML+EnthusiastAlways+Learning+New+Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;AI+ML+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---

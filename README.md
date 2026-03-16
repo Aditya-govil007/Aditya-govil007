@@ -83,7 +83,7 @@ Tech Stack:
 📧 Email: **adityagovil2004@gmail.com**
 
 💼 LinkedIn  
-https://linkedin.com/in/aditya-govil
+[https://linkedin.com/in/aditya-govil](https://www.linkedin.com/in/aditya-govil-9b53a8311/)
 
 ---
 

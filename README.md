@@ -41,28 +41,24 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Mock Interview Platform (🔥 Highlight Project)
+- AI-powered platform simulating real interview scenarios  
+- Generates intelligent feedback using **Gemini API**  
+- Supports dynamic question generation & authentication  
+- Built with **Next.js, Tailwind CSS, Drizzle ORM**  
+
+🔗 [GitHub Repo](https://github.com/Aditya-govil007/AI-Mock-Interview-Platform)
+
+---
+
 ### 🎥 Video Conferencing Web App
-Real-time video communication platform.
+- Real-time video communication using **WebRTC & Socket.IO**  
+- Multi-user rooms with low-latency streaming  
+- Built using **React & Node.js**  
 
-Tech Stack:
-- React
-- Node.js
-- Socket.IO
-- WebRTC
+🔗 [GitHub Repo](https://github.com/Aditya-govil007/Video-Conference-Web-Application)
 
 ---
-
-### 📊 Smart SQL Tool
-A tool that simplifies working with SQL databases.
-
-Tech Stack:
-- Python
-- Streamlit
-- SQL
-
----
-
-
 
 ## 📊 GitHub Stats
 
@@ -83,8 +79,8 @@ Tech Stack:
 📧 Email: **adityagovil2004@gmail.com**
 
 💼 LinkedIn  
-[https://linkedin.com/in/aditya-govil](https://www.linkedin.com/in/aditya-govil-9b53a8311/)
+[https://www.linkedin.com/in/aditya-govil-9b53a8311/](https://www.linkedin.com/in/aditya-govil-9b53a8311/)
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+⭐ *Code. Learn. Build. Repeat.*

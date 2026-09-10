@@ -41,7 +41,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Mock Interview Platform (🔥 Highlight Project)
+### 🤖 AI Mock Interview Platform 
 - AI-powered platform simulating real interview scenarios  
 - Generates intelligent feedback using **Gemini API**  
 - Supports dynamic question generation & authentication  
